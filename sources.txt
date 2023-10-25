@@ -1,0 +1,9 @@
+IT, https://www.computerweekly.com
+IT, https://www.infoworld.com
+IT, https://www.zdnet.com
+Health, https://www.health.harvard.edu
+Health, https://www.medicalnewstoday.com
+Health, https://www.mayoclinic.org
+Astronomy, https://www.space.com
+Astronomy, https://www.universetoday.com
+Astronomy, https://www.astronomy.com
